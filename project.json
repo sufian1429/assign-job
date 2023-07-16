@@ -1,1 +1,7 @@
-{"orgId":"KYpnPrO2SazpQUTStrC0RLrR","projectId":"prj_ddYhhhiu1v9Cz9LjdDPmWYisyxBu"}
+{
+    "functions": {
+      "api/*.php": {
+        "runtime": "vercel-php@0.6.0"
+      }
+    }
+  }
